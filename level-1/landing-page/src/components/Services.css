@@ -1,0 +1,11 @@
+.services {
+  display: flex;
+  justify-content: space-around;
+  padding: 50px 20px;
+  background: #f8f8f8;
+}
+
+.service {
+  text-align: center;
+  padding: 20px;
+}
